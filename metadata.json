@@ -1,0 +1,6 @@
+{
+  "name": "SKILLSZ",
+  "description": "All-in-one technical student career platform for learning, resumes, tests, internships, jobs, and AI guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
